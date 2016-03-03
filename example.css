@@ -1,0 +1,15 @@
+body {
+    padding: 20px;
+    font-size: 20px;
+}
+
+i {
+    margin-right: 5px;
+}
+
+.bar {
+    margin: 10px 0;
+    height: 1em;
+    background-color: #FF0000;
+}
+
